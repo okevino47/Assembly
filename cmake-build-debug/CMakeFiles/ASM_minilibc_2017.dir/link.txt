@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ASM_minilibc_2017.dir/main.c.o  -o ASM_minilibc_2017 

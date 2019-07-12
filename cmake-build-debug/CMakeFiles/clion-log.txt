@@ -1,0 +1,6 @@
+/home/bibibrutal/Téléchargements/clion-2017.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/bibibrutal/travail/Tek2/Assembly/MiniLibC/ASM_minilibc_2017
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: ASM_minilibc_2017
+CMake Error: Cannot determine link language for target "ASM_minilibc_2017".
+-- Generating done
+-- Build files have been written to: /home/bibibrutal/travail/Tek2/Assembly/MiniLibC/ASM_minilibc_2017/cmake-build-debug
